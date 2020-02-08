@@ -1,5 +1,5 @@
 # War
-## Code designed to explore stacks and queues
+## Code designed to learn to use stacks, queues, and deques correctly
 
 ## *FIXME: Author(s) of primary logic and code: add name(s) here*
 ## Author of deck and sort: Jan Pearce, Berea College
